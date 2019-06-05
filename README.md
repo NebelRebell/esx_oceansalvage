@@ -1,6 +1,22 @@
 # esx_oceansalvage
+# Modify by NebelRebell
+Known Bugs / Erros:
+No Blip after starting the show (DELETE).
 
-Esx Ocean Salvage Job for ESX
+I've cleand up the stuff to find the known Error und include all esx_oceansalvages I found in FiveM.
+
+Original FiveM-Foum-Post:
+https://forum.fivem.net/t/release-esx-ocean-salvage-job/137770
+
+Needed Stuff:
+https://github.com/tracid56/esx_diving
+
+Usefull Stuff:
+https://forum.fivem.net/t/release-anchorboat-v1-3/119138
+
+
+#Original ReadMe
+#Esx Ocean Salvage Job for ESX
 
 # Getting Started
 
