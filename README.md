@@ -1,14 +1,16 @@
 # esx_oceansalvage
-esx_oceansalvage fixed, updated and cleand up. Original from Zach_Brown FiveM-Forum. 
 
-Originalpost:
-https://forum.fivem.net/t/release-esx-ocean-salvage-job/137770
+Esx Ocean Salvage Job for ESX
 
-Needed Stuff:
-https://github.com/tracid56/esx_diving
+# Getting Started
 
-Useful Stuff:
-https://forum.fivem.net/t/release-anchorboat-v1-3/119138
+1. Add esx_oceansalvage folder into resources
+2. Add in server.cfg
+3. Add esx_oceansalvage to database
 
-GreetZ NebelRebell
-Nebelbank.net
+# Configuration
+
+1. Configuration only in config.lua
+
+Thanks to Anthony for esx_garbage, wich is the base of all of this.
+https://github.com/AnthonyEl
